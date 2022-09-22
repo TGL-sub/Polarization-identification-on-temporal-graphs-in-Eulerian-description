@@ -19,13 +19,14 @@ Compare to the original repository, the following files were replaced or added:
 ### Datasets
 
 Three datasets are provided:
-  - politoEdge_graph_t_0.12_d_1
-  - politoEdge_graph_t_0.3_d_1
-  - politoEdge_graph_t_1_d_1
+  - politoEdge_graph_t_0.12_d_1;
+  - politoEdge_graph_t_0.3_d_1;
+  - politoEdge_graph_t_1_d_1.
 
 They correspond to the same original dataset, but on more or less important time ranges.
 
 ## Running the codes
 
 Open the code/TGN_vector_fields.ipynb notebook. Run all to test it on the politoEdge_graph_t_0.3_d_1 dataset. Results are available in Part. B. and Part. C. of the notebook.
-The model provided has been trained for t=0.12. To use it over a different time range, change the title of the data to be studied to Part. C.
+
+The model provided has been trained for t=0.12. To use it over a different time range, change the title of the data to be studied in Part. C.
