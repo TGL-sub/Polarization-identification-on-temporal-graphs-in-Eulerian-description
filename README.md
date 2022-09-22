@@ -22,6 +22,7 @@ Three datasets are provided:
   - politoEdge_graph_t_0.12_d_1
   - politoEdge_graph_t_0.3_d_1
   - politoEdge_graph_t_1_d_1
+
 They correspond to the same original dataset, but on more or less important time ranges.
 
 ## Running the codes
